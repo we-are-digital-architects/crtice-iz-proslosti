@@ -1,0 +1,11 @@
+user_context: "Fotografija je snimljena kasnih 60-ih Godina prošlog stoljeća. Na desnoj strani fotografije vidimo dvije kuće iz starog Varteksovog naselja, kojih danas više nema, a nalazile su se pri kraju ulice Đure Salaja, danas Zrinskih I Frankopana. U tim kućama živjele su obitelji: Jagačić, Orlović, Frntić, Vinković, Mesek, Šćurec, Rožić, Horvat, Šantalab, Cerovečki… Fotografiju je snimio Dragutin Brezovec."
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate the old Varteks settlement houses with subtle period-appropriate details from the late 1960s - car on the road moving away from camera, bicycle moving towards the camera, gentle leaf movements in bushes with slight swaying in the breeze, authentic architectural elements, and natural environmental effects like dust particles in the air to bring the historical neighborhood scene to life."

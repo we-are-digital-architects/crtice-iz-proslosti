@@ -1,0 +1,11 @@
+user_context: 'Varteksovo naselje kasnih 1970-ih. Na slici vidimo gđu. Francisku Kanoti sa svojim unukama ispred svoje polovice kuće u Ulici Sande Puklek, a desno, kod "stojadinke", je g. Mijo Kanoti. Danas je na tom mjestu igralište za djecu sa ljuljačkama, toboganima, vrtuljcima uz atomsko sklonište. Izvor: Privatna zbirka obitelji Kanoti'
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate the family members with natural, realistic movements showing authentic period-appropriate interactions and postures of people in their daily life taking a photograph."

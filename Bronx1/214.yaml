@@ -1,0 +1,11 @@
+user_context: "1959. godina. Na slici vidimo svečanu povorku ispred Plave zgrade u Varteksovom naselju, u ulici marsala Tita 86, danas Zagrebačkoj ulici 86, povodom posjete Druga Tita Varaždinu, radi obilježavanja 40. godišnjice osnutka SRJ i SKOJ-a. Na slici desno vidimo Plavu zgradu u izgradnji, zavšava se 4. kat zgrade."
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate the 1959 ceremonial parade scene with car moving very slowly in direction of camera, people with small flags are waving enthusiastically, others are clapping their hands in celebration of the visit commemorating the 40th anniversary of SRJ and SKOJ founding."

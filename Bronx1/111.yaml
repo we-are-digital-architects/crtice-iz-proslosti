@@ -1,0 +1,11 @@
+user_context: "Na slici vidimo Varteksovo naselje iz ranih 60-ih Godina prošlog stoljeća, tj prelaz preko pruge u ulici Maršala Tita 86 ( danas zagrebačka ulica 86 ) sa pogledom na tekstilni gigant Varteks. Fotografiju je snimio Dragutin Brezovec ispred Plave zgrade"
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate car moving in direction of camera, bicycles are moving away from camera, kid on the left running across the street. Leaves on tree have gentle swing."

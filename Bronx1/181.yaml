@@ -1,0 +1,11 @@
+user_context: "Na slici vidimo prometnu gužvu 80-ih Godina prošlog stoljeća, kada su se radnici Tekstilne industije Varteks vraćali s posla nakon odrađene jutarnje smjene u 14 sati.. Lokacija je Varteksovo naselje, raskršće ulica Maršala Tita, današnja Zagrebačka i Narodne revolucije, današnja Miroslava Krleže. Fotografirao Dragutin Brezovec."
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate the 1980s traffic scene with natural movement of cars in slight traffic jam on green light due to passing bicycles. All bicycles move naturally and in correct direction. Cars slowly accelerate and move forward as traffic clears, with period-appropriate vehicles showing realistic motion patterns typical of workers returning from their morning shift at 2 PM."

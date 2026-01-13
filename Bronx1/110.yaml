@@ -1,0 +1,11 @@
+user_context: "Varteksovo naselje 1970-ih Godina. Na slici vidimo završetak jutarnje smjene Varteksovih radnika i odlazak sa posla u 14 sati… također se vidi legendarna željeznička “rampa” i pruga za Ivanec i Golubovec uz pogled na Ulicu maršala Tita (danas Zagrebačka) Vidi se i legendarna gostionica “Hruza”, stari bazeni Varteks, zgrada Vartimpeksa, dvorište automehaničara Lončara… Fotografija je iz arhive Josipa Novaka"
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate only cars on main road moving slowly in correct direction, cars on side road are stationary, people walk at natural tempo."

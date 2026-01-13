@@ -1,0 +1,11 @@
+user_context: "Na slici vidimo Varteksovo naselje iz 1960-ih godina, djecu i livadu iza legendarne Plave zgrade na kojoj su djeca iz kvarta redovno igrala nogomet jer su na toj livadi bile “štange” za “klofanje tepiha” koje su djeca koristila kao gol. Vidi se kuća Tome Janušića 7, danas Stjepana Vukovića 7, u kojoj su živjele obitelji: Pavlić, Čubrić, Hrženjak i Ptiček. U pozadini vidimo “štrikove sa vešom” na kojima su stanari sušili svoju odjeću, te vidimo dio Varteksovog pogona i Varteksov dimnjak. Autor slike je Dragutin Brezovec"
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate the scene with children playing football on the meadow behind the legendary, using the carpet-beating poles as goalposts. Show natural childhood movements and period-appropriate clothing. Clothes are dried on clotheslines with gentle swaying motion from the breeze."

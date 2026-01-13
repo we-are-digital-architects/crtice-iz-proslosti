@@ -1,0 +1,11 @@
+user_context: "Na fotografiji vidimo Varteksovo naselje 1960-ih Godina prošlog stoljeća. Lijevo na slici su zgrade u Ulici Tome Janušića (danas Stjepana Vukovića) br.1 i br. 3, a desno vidimo kuće starog Varteksovog naselja. Isto tako vidi se Ulica Tome Janušića (danas Stjepana Vukovića) koja još tada 1960-ih godina nije bila asfaltirana."
+restoration:
+  prompt:
+    restoration_extras: ""
+reality:
+  prompt:
+    enhancement_extras: "Include authentic real-world imperfections: subtle lens distortions, natural grain/noise, bokeh depth of field, realistic lighting shadows/highlights, skin pore textures, environmental reflections, micro-details, accurate ambient occlusion. Natural skin tones with sub-surface scattering, slightly asymmetrical features, organic expression. Background: dust particles in air, realistic sky gradients, environmental lighting (golden hour/shade), background blur with true optical depth. Colors balanced realistically, white balance accurate, mild chromatic aberration at edges. Accurate anatomy, fabric folds, reflections, light bounce, focus transitions. Camera perspective: real lens behavior, correct parallax, perspective compression/expansion, real-world framing (candid compositions, slightly off-center focus, over-shoulder). Natural imperfections: flyaway hairs, slight skin blemishes, uneven fabric, small wrinkles, light scattering in transparent/reflective materials. Avoid excessive smoothness or symmetry. Indistinguishable from skilled photographer's work. Comply with all real-world physics and visual logic."
+    technical_guidance: "Professional full-frame Canon DSLR/mirrorless camera, prime lens 50mm f/1.4 wide aperture, natural lighting."
+video:
+  prompt:
+    animation_extras: "Animate the settlement scene with children playing naturally in the unpaved street, one child walking while pushing a bicycle, other kids playing games typical of the era, with period-appropriate clothing and natural childhood movements."
